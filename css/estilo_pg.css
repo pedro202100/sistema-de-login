@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-image: url("../img/funtoTeste.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    
+}
+main{
+    padding-top: 6%;
+}
+header{
+    position: fixed;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    margin-top: 33%;
+}
+#footer{
+    margin-top: 0;
+}
+#barra_table{
+    width: 100%;
+    padding: 10px;
+    height: 50px;
+    text-align: center;
+}
+#main_table{
+    text-align: center;
+    font-weight: bold;
+    color:#5c5c5c ;
+}
+#nav-bar li a:hover{
+    border-top: 5px solid black;
+   
+}
+
+
+
+.botoes_lista{
+    margin: auto;
+    display: block;
+    margin-top: 5px;
+    background-color: #5c5c5c;
+    border: 0;
+    width: 228px;
+    height: 30px;
+    border-radius: 30px;
+    color: #fdfdfd;
+}
+.botoes_lista:hover{
+    cursor: pointer;
+    background-color: #fdfdfd;
+    color: #5b5b5b;
+    border: 1px solid #5b5b5b ;
+}
+#botoes{
+    display: flex;
+    justify-content: center;
+}
+#botoes a {
+    display: block;
+    margin-top: 5px;
+    width: 236px;
+}
+#vazio_td{
+    text-align: center;
+    font-size: 15pt;
+}
+a{
+    text-decoration: none;
+}
+table td{
+    background-color: white;
+}
+table{
+    font-family: Arial;
+    font-size: 11.4pt;
+    margin: auto;
+    margin-top: 8px;
+}
+/*formularioformularioformularioformularioformularioformularioformularioformularioformulario*/
+#formulario{
+    width: 350px;
+    margin: auto;
+    height: 200px;
+    border: 2px solid #5b5b5b;
+    border-radius: 30px;
+    color: black;
+}
+#enviar_soli{
+    width: 77%;
+    height: 30px;
+    font-size: 18pt;
+}
+#CPF{
+    height: 42px;
+}
+.form_dados{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 29%;
+}
+#barra_table td{
+    width: 150px;
+    color:#777777;
+    font-weight: bolder;
+}
+#main_table_consulta td{
+    color:#777777 ;
+    font-weight: bolder;
+}
+#barra_table_consulta{
+    color: #777777;
+    font-weight: bold;
+}
+
+.senha{
+    text-align: center;
+    height: 19px;
+}
+
+.form_dados input{
+    width: 262px;
+    margin: auto;
+    height: 25px;
+}
+/*Header*/
+
+header{
+    height: 60px;
+    margin-bottom: 2%;
+    background-color:#ffffff ; 
+
+}
+
+.menu{
+    background-color: yellowgreen;
+    width: 150px;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0;
+    padding-top: 1%;
+}
+
+nav ul li a{
+    color: black;
+    font-size: 20pt;
+}
+
+/*CONSULTA*/
+
+table{
+    width: 100%;
+    
+}
+table td{
+    background-color: #EFF3EF;
+    color: black;
+    font-size: 12pt;
+
+}
+
+#main_table_consulta td{
+    text-align: center;
+    padding: 15px;
+}
+#barra_table_consulta td{
+    padding: 5px;
+    padding: 10px;
+    height: 50px;
+    text-align: center;
+}
+
+
+.refresh{
+    width: 0%;
+}
+.refresh a img{
+    width: 18px;
+    height: 18px;
+}
+.refresh button{
+    border: 0;
+    background: white;
+}
+
+
+.alert{
+    font-size: 17pt;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+
+#form_pesquisa img{
+    width:75%;
+}
+
+
+#botao_post{
+    width: 7%;
+    margin-top: 2%;
+    border-radius: 0px 30px 30px 0px;
+}
+#botao_post:hover{
+    cursor: pointer;
+    background-color:#8d8d8d ;
+}
+#form_pesquisa{
+    width: 700px;
+    margin-left: 2%;
+    display: flex;
+}
+#form_pesquisa input{
+    float: left;
+    height: 32px;
+    margin-top: 2%;
+    margin-left: 26%;
+    width: 408px;
+    background-color: #989898;
+    border: 2px solid black;
+    color: #fdfdfd;
+    border-radius: 30px 0px 0px 30px;
+    padding-left: 5%;
+    outline: none;
+}
+#form_pesquisa input::placeholder{
+    color:#fdfdfd;
+}
+#form_consulta a{
+    margin-right: 3%;
+}
+img{
+    width: 16px;   
+}
+#corpo{
+    text-align: center;
+}
+#corpo h1{
+    margin-bottom: 110px;
+    margin-top: 14%;
+    text-shadow: 1px 1px 2px;
+}
+
+.confirm{
+    padding: 20px;
+    color: black;
+    font-size: 20pt;
+    margin-top: 20%;
+    margin-right: 2%;
+    border: 1px solid black;
+    border-radius: 10%;
+    text-shadow: 1px 1px 2px;
+}
+.confirm:hover{
+    background-color: #989898;
+    color: black;
+}
+
+ul.pagination { /** Inicia a configiração da lista pagination**/
+    display: inline-block; /** Inicia uma nova linha e espande para esquerda **/
+    padding: 0; /** Retira o espaço interno da lista **/
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+ul.pagination li { /** Inicia a configuração da linha da lista **/
+  display: inline; /** Deixa uma linha do lado da outra **/
+}
+
+ul.pagination li a,p{ /** Coloca o estilo no botão que tem link a **/
+    color: black; /** Fonte preta **/
+    float: left; /** Alinha a esquerda **/
+    padding: 8px 16px; /** Adiciona espaço na linha **/
+    text-decoration: none; /** Tira decoração do texto **/
+}
+#link:active { /** Coloca o estilo no link com a classe active **/
+    background-color: blue; /** Define uma cor de fundo para o botão da página atual **/
+    color: white; /** A cor da fonte também **/
+}
+
+
+
+ul.pagination li a:hover:not(.active) {/** Insere o estilo para quando o mouse passar por cima do link exeto no botão da página atual **/
+    background-color: #ddd; /** Insere um tom de cinza **/
+}
+#usuario p{
+    color: black;
+    font-size: 18pt;
+    padding-bottom: 5px;
+}
+#usuario{
+    font-size: 18pt;
+}
+#msgerror{
+    color: red;
+}

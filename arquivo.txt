@@ -1,0 +1,44 @@
+
+DATA: 22/06/2021 14:37:46
+Nome:CARLOS HERNANDEZ GONZALEZ GOMEZ
+N�mero do Benef�cio:159.713.935-9
+CPF:999.655.188-15
+Contrato:
+Situa��o:ATIVO
+� Pens�o Aliment�cia:N�o
+Possui Representante Legal:N�o
+Bloqueado para Empr�stimo:N�o
+Eleg�vel para Empr�stimo:Sim
+Possui Procurador:N�o
+Esp�cie:APOSENTADORIA POR TEMPO DE CONTRIBUICAO
+Margem para Empr�stimo: R$ 154,15
+Margem para Cart�o: R$ 0,00
+Base de C�lculo: R$ 3.855,24
+CBC/Banco:104 - CEF
+Conta Corrente
+C/C.:0000218985
+Agencia.:3081
+Contrato:
+816000682394 - BRADESCO PROMOTORA05/202104/202830/04/202184| R$ 1.505,96| R$ 36,74| Situa��o:Ativo
+Contrato:
+010014634551626 - C6 Consignado S.A.04/202103/202807/12/202084| R$ 2.110,39| R$ 52,00| Situa��o:Ativo
+Contrato:
+205156227955 - OLE CONSIGNADO09/202008/202707/08/202084| R$ 2.268,15| R$ 52,07| Situa��o:Ativo
+Contrato:
+338062910-9237 - Bradesco11/202010/202701/08/202084| R$ 3.826,08| R$ 90,00Contrato migrado da institui��o financeira Banco PAN, em 04/12/2020| Situa��o:Ativo
+DATA: 22/06/2021 14:37:46
+Nome:CARLOS HERNANDEZ GONZALEZ GOMEZ
+N�mero do Benef�cio:159.713.935-9
+CPF:999.655.188-15
+Contrato:
+203999944955 - OLE CONSIGNADO08/202007/202725/07/202084| R$ 35.885,47| R$ 735,36| Situa��o:Ativo
+Contrato:
+619751393| CBC / Banco: 29 - Itau Consignado S.A. |04/202003/202619/03/202072| R$ 1.380,53| R$ 39,00| Situa��o:Ativo
+Contrato:
+000010364862422 - Safra06/201905/202508/05/201972| R$ 1.760,45| R$ 47,20| Situa��o:Ativo
+Contrato:
+590544473| CBC / Banco: 29 - Itau Consignado S.A. |05/201904/202509/04/201972| R$ 5.556,11| R$ 142,81| Situa��o:Ativo
+Contrato:
+
+N� Contrato:11867054| CBC / Banco: 318 - BMG | Data de Inclus�o:04/02/2017|Situa��o:Ativo|Limite: R$ 3.786,00|R$ 192,76
+c�digo:210622AOHMH822
